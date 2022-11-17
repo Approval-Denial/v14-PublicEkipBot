@@ -4,6 +4,8 @@
 
 - Yetkili Sistemi
 <h5>Kişilere Günlük belirlenen görevleri verir ve yapıldığına belirlenen puanı vererek gerekli puana ulaştığında rank (yetki) atlatır.</h5>
+![Approval.](https://cdn.discordapp.com/attachments/1011397607685374033/1025322722462531654/unknown.png)<br>
+
 ![ilk](https://cdn.discordapp.com/attachments/1038465141144035388/1042901333520424970/image.png) <br>
 ![iki](https://cdn.discordapp.com/attachments/1038465141144035388/1042901333927268403/image.png) <br>
 ![uc](https://cdn.discordapp.com/attachments/1038465141144035388/1042901334317342790/image.png) <br>
