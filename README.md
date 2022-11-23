@@ -55,6 +55,7 @@
 
 ![guardpanel](https://cdn.discordapp.com/attachments/1033657616800436224/1044228782501920768/image.png) <br>
 
+<h6>Sekmededn yapmamın sebebi rol dağıtma açma işlemlerini test etmek normalde sekme korumasıda mevcut ama ben kapattım.</h6>
 
 https://user-images.githubusercontent.com/74969246/203518650-02250fc3-8913-4fbf-bb42-1d47a3c2f7f4.mp4
 
