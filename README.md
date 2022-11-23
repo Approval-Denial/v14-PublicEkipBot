@@ -5,7 +5,8 @@
 
 - Komutlar (Daha Eklicem)
 
-![Yardim](https://cdn.discordapp.com/attachments/1038465141144035388/1042902151040610425/image.png)
+![Yardim](https://cdn.discordapp.com/attachments/1028677053299576929/1044914580654141511/image.png)
+![Yardim](https://cdn.discordapp.com/attachments/1028677053299576929/1044914627861024819/image.png)
 
 - Kurulum 😋
 <h5>Id kopyalamaya son :D</h5>
@@ -52,4 +53,10 @@
 - Guard
 <h6> V14 sürümüyle uygun olarak yaptığım guardların ufak bi görüntüsü </h6>
 
-![guardpanel](https://cdn.discordapp.com/attachments/1033657616800436224/1044228782501920768/image.png)
+![guardpanel](https://cdn.discordapp.com/attachments/1033657616800436224/1044228782501920768/image.png) <br>
+
+
+https://user-images.githubusercontent.com/74969246/203518650-02250fc3-8913-4fbf-bb42-1d47a3c2f7f4.mp4
+
+
+
