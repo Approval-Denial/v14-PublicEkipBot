@@ -1,6 +1,8 @@
 # V14 İle Uyumlu Pub/Ekip Botları 😋
 # <img src="https://komarev.com/ghpvc/?username=v14-PublicEkipBot&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial/v14-PublicEkipBot" />
 <h5>Boş zamanımı değerlendirmek ve Id girişlerinden sıkıldığım için Kolay kurulumu v14 botlar yaptım.</h5>
+<h5>Repo sadece tanıtım amaçlı açılmıştır. alt yapıyı paylaşmayı düşünmüyorum ileriki zamanlarda belki</h5>
+
 ## Botlarda Bulunan Sistemler ve İlgili SS'ler aşağıda Verilmiştir
 
 - Komutlar (Daha Eklicem)
