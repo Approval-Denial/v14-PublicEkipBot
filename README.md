@@ -65,4 +65,4 @@ https://user-images.githubusercontent.com/74969246/203518650-02250fc3-8913-4fbf-
 
 https://user-images.githubusercontent.com/74969246/207148903-9973a234-fa60-4442-867e-de8c1c32794a.mp4
 
-
+![DosyalarınGörünümü](https://media.discordapp.net/attachments/1011397607685374033/1051961405068300318/image.png)
