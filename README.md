@@ -1,5 +1,4 @@
 # Her sunucuyla uyumlu Discord Botları!
-## Alt Yapı Satılıktır.
 # <img src="https://komarev.com/ghpvc/?username=v14-PublicEkipBot&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial/v14-PublicEkipBot" />
 <h5>Arkadaşın biri luppuxu pardon luppuxun yrrragını yediğini söylemişti :D Normalde 6 ay sonra paylaşmak biraz saçma ama inanın alt yapımın paylaşılmış veya satılmış olması s2mde değil hem yenileri varken eskileri ne yapıyım </h5>
 <p>Yeni alt yapıyla alakalı, Kurulum tamamen slash (/) ve web panel üstünden yapılmaktadır. her sistem kendine has bir kurulum gerektiriyor.a-z'ye herşeyi kurulum sistemlerinden yönetip değiştirebilir. database sistemlerini değiştirebilir ve düzenleleyebilirsiniz. MongoDB (server) - AC-DB (local) kullanılmaktadır. db değişimde veriler silinmiyor yeni dbye işleniyor ve kesintisiz devam ediliyor.</p>
