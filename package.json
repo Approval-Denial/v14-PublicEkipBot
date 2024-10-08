@@ -1,0 +1,35 @@
+{
+  "name": "luppux-all-bots",
+  "version": "1.0.0",
+  "description": "Her türlü sunucuyla uyumlu her türlü işleve sahip discord botları.",
+  "main": "ecosystem.config.js",
+  "scripts": {
+    "test": "pm2 start ecosystem.config.js"
+  },
+  "author": "approval luhux lulushu",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "axios": "^1.6.7",
+    "canvafy": "^7.0.4",
+    "cookie-parser": "^1.4.6",
+    "cron": "^2.4.3",
+    "discord-banners": "^1.0.1",
+    "discord-bettermarkdown": "^2.1.1",
+    "discord-logs": "^2.2.1",
+    "discord.js": "^14.13.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.43",
+    "mongoose": "^7.5.0",
+    "ms": "^2.1.3",
+    "node-superfetch": "^0.3.3",
+    "passport": "^0.6.0",
+    "passport-discord": "^0.1.4",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
